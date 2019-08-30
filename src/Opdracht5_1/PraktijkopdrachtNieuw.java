@@ -4,10 +4,10 @@ import java.awt.*;
 import java.applet.*;
 
 public class PraktijkopdrachtNieuw extends Applet{
-    private Color paars;
-    private Color zwart;
-    private int breedte;
-    private int hoogte;
+     Color paars;
+     Color zwart;
+     int breedte;
+     int hoogte;
 
         public void init() {
             paars = Color.magenta;
